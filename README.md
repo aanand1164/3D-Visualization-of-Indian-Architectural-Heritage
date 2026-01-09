@@ -2,7 +2,6 @@
 
 An AI-driven project that explores the use of generative models and single-view reconstruction techniques to create interactive 3D visualizations of Indian architectural monuments and temples. The project focuses on overcoming data limitations commonly faced by traditional 3D reconstruction pipelines by leveraging learned priors from deep learning models.
 
----
 
 ## 🚀 Key Components
 - Text-guided image generation for architectural structures
@@ -10,7 +9,6 @@ An AI-driven project that explores the use of generative models and single-view 
 - Point cloud generation followed by 3D mesh reconstruction
 - Interactive web-based 3D visualization
 
----
 
 ## 🛠️ Tech Stack
 - **Python** – model inference and reconstruction pipeline  
@@ -20,7 +18,6 @@ An AI-driven project that explores the use of generative models and single-view 
 - **React** – frontend for interactive visualization  
 - **Git** – version control  
 
----
 
 ## 💻 Setup & Execution
 
@@ -38,26 +35,22 @@ An AI-driven project that explores the use of generative models and single-view 
 
 Note: Model weights and generated outputs are excluded from version control.
 
----
 
 ## 📊 Results
 The project demonstrates that generative models combined with single-view reconstruction techniques can produce meaningful 3D representations suitable for conceptual visualization and exploratory analysis. While the reconstructed models are not metrically accurate, they effectively capture the structural essence of architectural forms.
 
----
 
 ## ⚠️ Limitations
 - Reconstructed 3D models are not intended for precise geometric or metric measurements.
 - Single-view reconstruction limits structural accuracy and fine-grained details.
 - Output quality is highly dependent on the generated image quality and model priors.
 
----
 
 ## 🔮 Future Work
 - Incorporating multi-view consistency to improve geometric accuracy
 - Exploring neural rendering techniques for enhanced visual quality
 - Enabling user-guided refinement and interaction for improved reconstruction control
 
----
 
 ## 📄 License
 This project is licensed under the MIT License.
