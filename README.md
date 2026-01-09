@@ -27,16 +27,20 @@ An AI-driven project that explores the use of generative models and single-view 
 1. Clone this repository:
    ```bash
    git clone https://github.com/aanand1164/3D-Visualization-of-Indian-Architectural-Heritage.git
-Set up a Python virtual environment and install required dependencies.
-2. Run the text-to-image generation script to generate architectural images.
-3. Use the generated images as input for the image-to-3D reconstruction pipeline.
-4. Start the React frontend to visualize the reconstructed 3D models interactively in the browser.
+   
+2.Set up a Python virtual environment and install required dependencies.
+
+3. Run the text-to-image generation script to generate architectural images.
+
+4. Use the generated images as input for the image-to-3D reconstruction pipeline.
+
+5. Start the React frontend to visualize the reconstructed 3D models interactively in the browser.
 
 Note: Model weights and generated outputs are excluded from version control.
 
 ---
 
-##📁 Folder Structure
+## 📁 Folder Structure
 3d-visualization/
 │
 ├── backend/                 # Python scripts for generation and reconstruction
@@ -55,24 +59,24 @@ Note: Model weights and generated outputs are excluded from version control.
 
 ---
 
-##📊 Results
+## 📊 Results
 The project demonstrates that generative models combined with single-view reconstruction techniques can produce meaningful 3D representations suitable for conceptual visualization and exploratory analysis. While the reconstructed models are not metrically accurate, they effectively capture the structural essence of architectural forms.
 
 ---
 
-##⚠️ Limitations
+## ⚠️ Limitations
 - Reconstructed 3D models are not intended for precise geometric or metric measurements.
 - Single-view reconstruction limits structural accuracy and fine-grained details.
 - Output quality is highly dependent on the generated image quality and model priors.
 
 ---
 
-##🔮 Future Work
+## 🔮 Future Work
 - Incorporating multi-view consistency to improve geometric accuracy
 - Exploring neural rendering techniques for enhanced visual quality
 - Enabling user-guided refinement and interaction for improved reconstruction control
 
 ---
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License.
