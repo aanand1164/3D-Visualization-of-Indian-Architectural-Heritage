@@ -28,7 +28,7 @@ An AI-driven project that explores the use of generative models and single-view 
    ```bash
    git clone https://github.com/aanand1164/3D-Visualization-of-Indian-Architectural-Heritage.git
    
-2.Set up a Python virtual environment and install required dependencies.
+2. Set up a Python virtual environment and install required dependencies.
 
 3. Run the text-to-image generation script to generate architectural images.
 
@@ -37,25 +37,6 @@ An AI-driven project that explores the use of generative models and single-view 
 5. Start the React frontend to visualize the reconstructed 3D models interactively in the browser.
 
 Note: Model weights and generated outputs are excluded from version control.
-
----
-
-## 📁 Folder Structure
-3d-visualization/
-│
-├── backend/                 # Python scripts for generation and reconstruction
-│   ├── text_to_image/       # Stable Diffusion pipeline
-│   ├── image_to_3d/         # Point-E based reconstruction
-│   └── utils/               # Helper scripts
-│
-├── frontend/                # React + Three.js visualization
-│   ├── src/
-│   └── public/
-│
-├── results/                 # Sample output images (screenshots only)
-├── README.md                # Project documentation
-├── .gitignore               # Git ignore file
-└── requirements.txt         # Python dependencies
 
 ---
 
