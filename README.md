@@ -26,7 +26,7 @@ An AI-driven project that explores the use of generative models and single-view 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/aanand1164/3D-Visualization-of-Indian-Architectural-Heritage.git
 Set up a Python virtual environment and install required dependencies.
 2. Run the text-to-image generation script to generate architectural images.
 3. Use the generated images as input for the image-to-3D reconstruction pipeline.
